@@ -1,0 +1,10 @@
+{
+  "name": "freegit-backend",
+  "version": "1.0.0",
+  "description": "freegit backend server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
